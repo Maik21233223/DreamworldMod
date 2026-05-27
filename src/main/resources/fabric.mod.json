@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"de.dreamworld.mod.DreamWorldDataGenerator"
+		],
+		"client": [
+			"de.dreamworld.mod.DreamwolrdClient"
 		]
 	},
 	"mixins": [
