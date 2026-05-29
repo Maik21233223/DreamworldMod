@@ -22,7 +22,7 @@
 			"de.dreamworld.mod.DreamWorldDataGenerator"
 		],
 		"client": [
-			"de/dreamworld/mod/DreamworldClient"
+			"de.dreamworld.mod.DreamworldClient"
 		]
 	},
 	"mixins": [
